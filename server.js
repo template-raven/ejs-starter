@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express(); // Configure app
-const PORT = 3500; // Set port as 3500
+const PORT = process.env.PORT || 3500; // Set port as 3500
 const  ejsRoutes = require(`${__dirname}/router/ejs`)
 
 
