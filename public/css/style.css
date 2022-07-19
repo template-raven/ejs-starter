@@ -12,6 +12,7 @@
 body {
 	background-color: var(--primary);
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	overflow: hidden;
 }
 h1,
 h2,
