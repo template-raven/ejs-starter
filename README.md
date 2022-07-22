@@ -18,7 +18,7 @@ https://ejs-starter.herokuapp.com
 - Included [Normalize.css](https://necolas.github.io/normalize.css/) for CSS reset.
 
 ## Usage
-Make sure you have [git](https://git-scm.com) and [node](nodejs.org) installed.
+Make sure you have [git](https://git-scm.com) and [node](https://nodejs.org) installed.
 ```
 git clone https://github.com/template-raven/ejs-starter
 ```
